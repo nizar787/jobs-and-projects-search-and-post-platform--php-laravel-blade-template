@@ -18,6 +18,7 @@ php artisan migrate
 
 ### Seeding The Database
 
+
 To add the dummy listings with a single user, run the following
 
 ```
